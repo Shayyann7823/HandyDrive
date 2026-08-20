@@ -1,4 +1,4 @@
-# HandyDrive
+#🖐️ HandyDrive
 
 Control browser racing games (e.g. Turbo Moto Racer) using hand gestures in front of your webcam — no keyboard touch needed. The script watches your hand via your webcam and simulates real arrow-key presses (`up`, `down`, `left`, `right`) based on what your hand is doing.
 
